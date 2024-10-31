@@ -1,0 +1,7 @@
+.raio-breadcrumb.breadcrumb li {
+  display: inline-block;
+  position: relative;
+}
+.raio-breadcrumb.breadcrumb li .divider {
+  padding-right: 5px;
+}
